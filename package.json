@@ -1,0 +1,14 @@
+{
+  "name": "mmm-covid19kr",
+  "version": "1.0.0",
+  "description": "한국용 코로나19모듈",
+  "main": "MMM-covid19kr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ohDDo",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
